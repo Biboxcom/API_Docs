@@ -17,3 +17,5 @@ https://www.bibox.com
 * [API Reference](https://github.com/Biboxcom/API_Docs/wiki/WS_API_Reference)
 * [错误码](https://github.com/Biboxcom/API_Docs/wiki/WS_error_code)
 * [示例](https://github.com/Biboxcom/WS-API-demos)
+
+English Documents <a href='https://github.com/Biboxcom/API_Docs_en'>click here</a>
