@@ -9,6 +9,7 @@ https://www.bibox.com
 * [签名认证](https://github.com/Biboxcom/API_Docs/wiki/REST_API_Sign)
 * [API请求、返回格式说明](https://github.com/Biboxcom/API_Docs/wiki/REST_Request_Response)
 * [API Reference](https://github.com/Biboxcom/API_Docs/wiki/REST_API_Reference)
+* [错误码](https://github.com/Biboxcom/API_Docs/wiki/REST_error_code)
 * [示例](https://github.com/Biboxcom/REST-API-demos)
 
 ### WebSocket API
